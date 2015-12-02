@@ -9,3 +9,5 @@ Try to get through these before we get into iterators and do more complex things
   * [Chapter 8 - More About Methods](http://books.flatironschool.com/books/11?page=126)
   * [Chapter 9 - Expressions](http://books.flatironschool.com/books/11?page=134)
   * _Bonus [Chapter 7 - Regular Expressions](http://books.flatironschool.com/books/11?page=108)_
+
+<a href='https://learn.co/lessons/more-ruby-resources-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
