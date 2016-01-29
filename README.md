@@ -10,4 +10,4 @@ Try to get through these before we get into iterators and do more complex things
   * [Chapter 9 - Expressions](http://books.flatironschool.com/books/11?page=134)
   * _Bonus [Chapter 7 - Regular Expressions](http://books.flatironschool.com/books/11?page=108)_
 
-<a href='https://learn.co/lessons/more-ruby-resources-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/more-ruby-resources-readme' title='Programming Ruby'>Programming Ruby</a> on Learn.co and start learning to code for free.</p>
